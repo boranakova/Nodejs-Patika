@@ -3,7 +3,7 @@ NodeJS Practicing
 
 
 
-Required Output 
+
 ![Screenshot_4](https://user-images.githubusercontent.com/56170942/203332072-9b7e8509-cec9-4d8e-ae1c-0dc7bcd2542f.png)
 
 

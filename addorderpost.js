@@ -22,12 +22,12 @@ async function OrderPost(posts){
         await AddPost(post)
         console.log(posts.map((post)=>post.value));
     } catch (e) {
-        console.log(e);
+        console.log(posts.map(element => element.value));
     }
    
 
 }
-
+OrderPost(Posts);
 let post = {id : 4, value : "test-value-4"};
 OrderPost(Posts);
 
